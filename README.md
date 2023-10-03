@@ -34,7 +34,7 @@ Before you begin, make sure you have the following prerequisites installed on yo
 
 ## Configuration
 
-To configure the project to work with the ChatGPT API, you'll need to obtain an API key from OpenAI:
+To configure the project to work with the OpenAI API, you'll need to obtain an API key from OpenAI:
 
 1. Visit the [OpenAI website](https://beta.openai.com/signup/).
 2. Sign up for an account and follow the instructions to get API access.
@@ -61,8 +61,3 @@ To configure the project to work with the ChatGPT API, you'll need to obtain an 
 3. Open your web browser and navigate to http://localhost:3000 to access the Chatbot.
 
 4. Enter a prompt in the input field, and the Chatbot will send the prompt to the ChatGPT API and display the response.
-
-
-
-
-
